@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: django-acs-email
-Version: 0.0.1
+Version: 0.0.3
 Summary: Azure Comunication Service Email Backend for Django
 Author: Juan Carlos Espinoza Zurita
 Author-email: carlos_jcez@hotmail.com

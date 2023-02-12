@@ -1,4 +1,10 @@
 setup.py
+src/django_acs_email/__init__.py
+src/django_acs_email/backend.py
+src/django_acs_email/logger.py
+src/django_acs_email/mime.py
+src/django_acs_email/triple.py
+src/django_acs_email/utils.py
 src/django_acs_email.egg-info/PKG-INFO
 src/django_acs_email.egg-info/SOURCES.txt
 src/django_acs_email.egg-info/dependency_links.txt
