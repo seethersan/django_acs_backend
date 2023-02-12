@@ -1,0 +1,6 @@
+setup.py
+src/django_acs_email.egg-info/PKG-INFO
+src/django_acs_email.egg-info/SOURCES.txt
+src/django_acs_email.egg-info/dependency_links.txt
+src/django_acs_email.egg-info/requires.txt
+src/django_acs_email.egg-info/top_level.txt

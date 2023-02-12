@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: django-acs-email
+Version: 0.0.1
+Summary: Azure Comunication Service Email Backend for Django
+Author: Juan Carlos Espinoza Zurita
+Author-email: carlos_jcez@hotmail.com
+Keywords: python,django,azure,communication,service,email,backend
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Django :: 4.0
+Requires-Python: >=3.6
+
+Package to send emails using Azure Communication Service from Django using a BackendEmail.
