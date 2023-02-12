@@ -93,7 +93,7 @@ class ACSEmailBackend(BaseEmailBackend):
             counter = 0
             while True and not self.fail_silently:
                 counter += 1
-                send_status = self.client.get_send_status(message_id)
+                send_status = self.connection.get_send_status(message_id)
 
                 if send_status:
                     self.log.info(
